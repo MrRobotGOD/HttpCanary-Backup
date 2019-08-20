@@ -1,0 +1,7 @@
+{
+"min": "2.9.0",
+"latest": "2.11.11",
+"url": "",
+"en_notes": " • Supports brotli encode/decode.\n • Supports regular history deletion.\n • Fixed a bug where the regular injection would cause the target no response.\n • Fixed a bug where the order of regulars were not correct.\n • Fixed a bug where the option of system certificate installation is invisible.",
+"zh_notes": " • [新增] 新增规则历史记录删除功能。\n • [新增] 新增支持Brotli编解码。\n • [修复] 修复规则匹配注入导致目标应用收不到响应的bug。\n • [修复] 修复规则匹配注入编辑页列表顺序颠倒的bug。\n • [修复] 修复root机器不显示安装系统证书的bug。"
+}
