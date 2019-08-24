@@ -2,7 +2,7 @@
 
 ####  1. 配置VPN（必须）
 
-HttpCanary使用VPN来拦截设备流量来实现网络数据抓包，所以必须配置VPN才能使用HttpCanary。
+HttpCanary使用VPN拦截设备流量来实现网络数据抓包，所以必须配置VPN才能使用HttpCanary。
 
 ![](/assets/install_vpn.png)
 
@@ -10,9 +10,9 @@ HttpCanary使用VPN来拦截设备流量来实现网络数据抓包，所以必�
 
 ####  2. 安装根证书（必须）
 
-**安装证书要求设备必须先设置锁屏密码或者图案，请按照系统提示进行设置（此乃系统限制与HttpCanary无关）**
+**安装证书要求设备必须设置锁屏密码或者图案，请按照系统提示进行设置（此乃系统限制与HttpCanary无关）**
 
-HttpCanary使用Man-in-the-Middle(MITM)技术抓取和解析TLS/SSL协议数据包，比如常见的HTTPS、WSS等请求，所以使用之前必须先安装HttpCanary根证书。
+HttpCanary使用Man-in-the-Middle(MITM)技术抓取和解析TLS/SSL协议数据包，比如常见的HTTPS、WSS等加密请求，所以使用之前必须先安装HttpCanary根证书。安装时，默认点击确定即可，请勿修改配置。
 
 ![](/assets/install_user_cetificate.png)
 
@@ -42,7 +42,7 @@ HttpCanary使用Man-in-the-Middle(MITM)技术抓取和解析TLS/SSL协议数据�
 
 - adb命令导入
 
-此方式要求安装adb工具，适合Android相关的开发者使用，如果未安装adb工具，请参考其它方式。
+此方式要求安装adb工具，适合Android开发者使用，如果未安装adb工具，请参考其它方式。
 
 ```shell
 # 87bc3517.0为证书文件，名称以导出为准
@@ -54,7 +54,7 @@ cp -f /sdcard/HttpCanary/87bc3517.0 /system/etc/security/cacerts
 
 - mt管理器2导入
 
-使用mt管理器2进行证书文件导入，直接将.0格式证书文件复制到/system/etc/security/cacerts目录即可（需挂载系统可写）。
+使用mt管理器2进行证书文件导入，直接将.0格式证书文件复制到/system/etc/security/cacerts目录即可（需挂载系统读写状态）。
 
 ![](/assets/cetificate_move.png)
 
@@ -75,11 +75,11 @@ cp -f /sdcard/HttpCanary/87bc3517.0 /system/etc/security/cacerts
 
 ####  4. 安装证书添加至火狐浏览器
 
-火狐浏览器非常适合用来抓取网页数据包，火狐浏览器使用非系统的CA证书进行认证，所以安装的HttpCanary证书无法生效，需要将其添加到火狐浏览器中。
+火狐浏览器非常适合用来抓取网页数据包，但是火狐浏览器使用非系统的CA证书进行认证，所以安装的HttpCanary证书无法生效，需要将其添加到火狐浏览器中。
 
 ![](/assets/cetificate_firefox1.png)
 
-在HttpCanary内的火狐浏览器证书安装界面，点击安装并选择火狐浏览器打开，火狐浏览器会自动弹出证书安装弹框，勾选所有的信任项并确定（**注意勾选全部**）。
+在HttpCanary内的火狐浏览器证书安装界面，点击安装并选择火狐浏览器打开，火狐浏览器会自动弹出证书安装弹框，勾选所有的信任项并确定（**注意勾选全部选项**）。
 
 ![](/assets/cetificate_firefox2.png)
 

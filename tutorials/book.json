@@ -52,21 +52,21 @@
         "sharing": {
            "douban": false,
            "facebook": false,
-           "google": true,
+           "google": false,
            "hatenaBookmark": false,
            "instapaper": false,
            "line": false,
-           "linkedin": true,
+           "linkedin": false,
            "messenger": false,
            "pocket": false,
            "qq": false,
            "qzone": false,
            "stumbleupon": false,
-           "twitter": true,
+           "twitter": false,
            "viber": false,
            "vk": false,
-           "weibo": true,
-           "whatsapp": true,
+           "weibo": false,
+           "whatsapp": false,
            "all": [
                "facebook", "google", "twitter",
                "weibo", "instapaper", "linkedin",
@@ -82,8 +82,8 @@
             "skipFirstH1": true
         },
         "edit-link": {
-            "base": "https://github.com/MegatronKing/HttpCanary/edit/master/tutorials",
-            "label": "Edit This Page"
+            "base": "https://github.com/MegatronKing/HttpCanary/blob/master/tutorials",
+            "label": "Edit"
         },
         "anchor-navigation-ex": {
             "isRewritePageTitle": false,
