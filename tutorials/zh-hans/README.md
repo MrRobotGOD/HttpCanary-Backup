@@ -49,10 +49,7 @@ HttpCanary分为免费版本和高级版本两种类型。其中，免费版本�
 
 #### 如何获取高级版本？
 
-- Google Play直接付费获取高级版本。
-[点我直达->](https://play.google.com/store/apps/details?id=com.guoshi.httpcanary.premium)
-- 免费版本内购激活码，通过激活码升级到高级版本。
-- 开发者赠与，有特殊贡献例如提供有效建议、反馈bug、举报盗版等。
+**高级版本购买渠道已关闭**
 
 #### 高级版本常见问题
 Q：Google Play高级版本和内购激活高级版本有何区别？<br>
