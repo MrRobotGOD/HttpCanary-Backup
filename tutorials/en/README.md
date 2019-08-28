@@ -1,6 +1,6 @@
 # HttpCanary User Manual
 
-HttpCanary is a powerful capture and injection tool for the Android platform. It supports multiple protocols such as HTTP, HTTP2, HTTPS and WebSocket.
+HttpCanary is a powerful network analysis tool for the Android platform. It supports multiple protocols such as HTTP, HTTP2, HTTPS and WebSocket.
 
 Before using, it is recommended to read the basic usage steps and advanced usage of HttpCanary in order to have a general understanding of the features of HttpCanary.
 

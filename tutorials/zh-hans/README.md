@@ -2,7 +2,7 @@
 
 [Languages](https://httpcanary.com/tutorials)
 
-HttpCanary是Android平台下功能最强大的抓包和注入工具，支持TCP/UDP/HTTP/HTTPS/WebSocket等多种协议，乃是开发者和玩机必备的神器！
+HttpCanary是Android平台下功能最强大的网络分析工具，支持TCP/UDP/HTTP/HTTPS/WebSocket等多种协议，乃是开发者和玩机必备的神器！
 
 ### 1. 限制&支持
 Android 5.0+/真机+模拟器/Wifi+蜂窝网络/无root要求
@@ -10,9 +10,9 @@ Android 5.0+/真机+模拟器/Wifi+蜂窝网络/无root要求
 ### 2. 功能特性
 
 #### 2.1 多协议支持
-- 支持HTTP1.0/HTTP1.1/HTTP2/HTTPS协议抓包和注入。
-- 支持WebSocket协议抓包。
-- 支持TCP/UDP协议抓包。
+- 支持HTTP1.0/HTTP1.1/HTTP2/HTTPS协议。
+- 支持WebSocket协议。
+- 支持TCP/UDP协议。
 
 #### 2.2 数据分析支持
 - 支持常见编码格式解析，例如gzip、brotli、chunked等。

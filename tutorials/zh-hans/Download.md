@@ -22,6 +22,4 @@
 
 ### 下载
 
-- [酷安](https://www.coolapk.com/apk/218414)
 - [Google Play](https://play.google.com/store/apps/details?id=com.guoshi.httpcanary)
-- [Github](https://github.com/MegatronKing/HttpCanary/releases)
