@@ -2,6 +2,6 @@
 "min": "2.10.2",
 "latest": "3.1.0",
 "url": "https://httpcanary.com/app/httpcanary_basic_v3.1.0.apk",
-"en_notes": "A milestone version!",
+"en_notes": " • Update End User License Agreement.\n • Fixed a bug where white & black list does not work.\n • Add a switch that only captures the HTTP protocol.\n • Add a toolbox that contains a lot of cool features.\n • Limit injection and breakpoint features on free version.\n • Bug-fixes and improvements.\n",
 "zh_notes": " • [新增] 更新用户许可协议。\n • [新增] 新增只抓HTTP协议的开关。\n • [新增] 新增工具箱，包含更多cool的功能。\n • [删除] 删除微信定位漂移插件。\n • [修复] 黑白名单无效的bug。\n • [修复] 修复一系列闪退的问题。\n "
 }
