@@ -1,7 +1,7 @@
 {
-"min": "2.9.0",
-"latest": "3.0.0",
+"min": "2.10.2",
+"latest": "3.1.2",
 "url": "",
-"en_notes": "A milestone version!",
-"zh_notes": " • [新增] 强化用户网络安全和法律风险意识。\n • [新增] 新增TCP/UDP协议抓包、搜索、预览和保存。\n • [新增] 新增对抓包项更多的操作，比如置顶、黑名单、白名单等。\n • [新增] 新增支持对抓包项进行备注。\n • [新增] 新增使用*和?通配符匹配url进行注入。\n • [新增] 新增屏蔽类型插件，一键屏蔽指定数据包。\n • [新增] 新增支持对抓包项进行快速滑动删除。\n • [新增] 新增极速模式，为插件用户而生。\n • [新增] 新增支持显示双行URL。\n • [新增] 新增忽略路由器数据包开关选项。\n • [优化] 优化WebSocket协议显示及预览，从HTTP协议中独立出来。\n • [优化] 优化HostBlock插件，支持TCP/UDP及其子协议，支持*和?通配符匹配。\n • [优化] 优化首页UI布局和交互，插件等常用功能移到侧滑栏。\n • [优化] 优化首页已读和未读抓包项的显示。\n • [优化] 优化抓包项标记是否已注入、标记各种数据类型等。\n • [优化] 优化HTTP数据保存，自动保存为图片等相应文件格式。\n • [优化] 优化静态注入器默认名字，自动使用应用名称。\n • [修复] 修复火狐浏览器安装证书可能会启动默认浏览器的bug。\n • [修复] 修复阿拉伯语等从右至左语言无法安装证书的bug。\n • [修复] 尝试修复一加6点击开始抓包闪退的bug。\n"
+"en_notes": " • Update End User License Agreement.\n • Fixed a bug where white & black list does not work.\n • Add a switch that only captures the HTTP protocol.\n • Add a toolbox that contains a lot of cool features.\n • Limit injection and breakpoint features on free version.\n • Bug-fixes and improvements.\n",
+"zh_notes": " • [新增] 更新用户许可协议。\n • [新增] 新增只抓HTTP协议的开关。\n • [新增] 新增工具箱，包含更多cool的功能。\n • [删除] 删除微信定位漂移插件。\n • [修复] 黑白名单无效的bug。\n • [修复] 修复一系列闪退的问题。\n "
 }
