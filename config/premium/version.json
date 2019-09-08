@@ -1,7 +1,7 @@
 {
 "min": "2.10.2",
-"latest": "3.1.2",
+"latest": "3.1.3",
 "url": "",
-"en_notes": " • Update End User License Agreement.\n • Fixed a bug where white & black list does not work.\n • Add a switch that only captures the HTTP protocol.\n • Add a toolbox that contains a lot of cool features.\n • Limit injection and breakpoint features on free version.\n • Bug-fixes and improvements.\n",
-"zh_notes": " • [新增] 更新用户许可协议。\n • [新增] 新增只抓HTTP协议的开关。\n • [新增] 新增工具箱，包含更多cool的功能。\n • [删除] 删除微信定位漂移插件。\n • [修复] 黑白名单无效的bug。\n • [修复] 修复一系列闪退的问题。\n "
+"en_notes": " • Fixed a bug where search label is invisible or will crash when clicking save.\n • Fixed a bug where audio preview caused the app crash.\n • Fixed a bug where the hook dialog is shown incorrectly.\n • Fixed a bug where certificate extract doesn't work in some cases.\n • Refactor the location plugin.\n",
+"zh_notes": " • [新增] 目标应用列表新增滑动删除功能。\n • [修复] 修复常用标签不显示以及标签保存闪退的bug。\n • [修复] 修复高级版本提示Hook异常的bug。\n • [修复] 修复音频预览点击播放闪退的bug。\n • [修复] 修复证书提取工具无法提取不合法证书的bug。\n • [修复] 修复版本更新后仍然提示有新版本的bug。\n • [优化] 重构网络定位漂移插件。\n "
 }
