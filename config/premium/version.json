@@ -1,7 +1,7 @@
 {
 "min": "2.10.2",
 "latest": "3.1.3",
-"url": "",
+"url": "https://httpcanary.com/app/httpcanary_basic_v3.1.3.apk",
 "en_notes": " • Fixed a bug where search label is invisible or will crash when clicking save.\n • Fixed a bug where audio preview caused the app crash.\n • Fixed a bug where the hook dialog is shown incorrectly.\n • Fixed a bug where certificate extract doesn't work in some cases.\n • Refactor the location plugin.\n",
 "zh_notes": " • [新增] 目标应用列表新增滑动删除功能。\n • [修复] 修复常用标签不显示以及标签保存闪退的bug。\n • [修复] 修复高级版本提示Hook异常的bug。\n • [修复] 修复音频预览点击播放闪退的bug。\n • [修复] 修复证书提取工具无法提取不合法证书的bug。\n • [修复] 修复版本更新后仍然提示有新版本的bug。\n • [优化] 重构网络定位漂移插件。\n "
 }
