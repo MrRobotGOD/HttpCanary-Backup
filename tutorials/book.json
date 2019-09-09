@@ -13,29 +13,18 @@
         "edit-link@^2.0.2",
         "anchors@^0.7.1",
         "include-codeblock@^3.0.2",
-        "ace@^0.3.2",
         "emphasize@^1.1.0",
-        "katex@^1.1.3",
         "splitter@^0.0.8",
-        "mermaid-gb3@2.1.0",
         "tbfed-pagefooter@^0.0.1",
         "expandable-chapters-small@^0.1.7",
         "sectionx@^3.1.0",
-        "local-video@^1.0.1",
         "anchor-navigation-ex@0.1.8",
         "favicon@^0.0.2",
         "todo@^0.1.3",
-        "terminal@^0.3.2",
         "alerts@^0.2.0",
-        "include-csv@^0.1.0",
-        "puml@^1.0.1",
-        "musicxml@^1.0.2",
-        "klipse@^1.2.0",
         "versions-select@^0.1.1",
         "-sharing",
-        "sharing-plus@^0.0.2",
-        "graph@^0.1.0",
-        "chart@^0.2.0"
+        "sharing-plus@^0.0.2"
     ],
     "pluginsConfig": {
         "theme-default": {
@@ -97,11 +86,6 @@
         "favicon": {
             "shortcut": "favicon.ico",
             "bookmark": "favicon.ico"
-        },
-        "terminal": {
-            "copyButtons": true,
-            "fade": false,
-            "style": "flat"
         }
     }
 }
