@@ -1,7 +1,7 @@
 {
 "min": "2.11.9",
-"latest": "3.1.3",
-"url": "https://httpcanary.com/app/httpcanary_basic_v3.1.3.apk",
-"en_notes": " • Fixed a bug where search label is invisible or will crash when clicking save.\n • Fixed a bug where audio preview caused the app crash.\n • Fixed a bug where the hook dialog is shown incorrectly.\n • Fixed a bug where certificate extract doesn't work in some cases.\n • Refactor the location plugin.\n",
-"zh_notes": " • [新增] 目标应用列表新增滑动删除功能。\n • [修复] 修复常用标签不显示以及标签保存闪退的bug。\n • [修复] 修复高级版本提示Hook异常的bug。\n • [修复] 修复音频预览点击播放闪退的bug。\n • [修复] 修复证书提取工具无法提取不合法证书的bug。\n • [修复] 修复版本更新后仍然提示有新版本的bug。\n • [优化] 重构网络定位漂移插件。\n "
+"latest": "3.1.4",
+"url": "https://httpcanary.com/app/httpcanary_basic_v3.1.4.apk",
+"en_notes": " • Plugin installation, opening and closing take effect immediately.\n • Support SSL host mapping , fixed the bug where the HTTPS directly connected to the IP could not catch the plaintext.\n • Support double-click to exit the app.\n • Fixed a bug where the black and white list does not take effect on the IP.\n • Fixed a bug where the Firefox certificate installation is not visible.\n",
+"zh_notes": " • [优化] 优化插件功能，插件安装、关闭和开启立即生效，无需重启抓包。\n • [新增] 新增SSL域名映射功能，修复IP直连的HTTPS请求抓不到明文的bug。\n • [新增] 新增双击退出APP的功能。\n • [修复] 修复url中域名显示为null的bug。\n • [修复] 修复黑白名单不对IP生效的bug。\n • [修复] 修复Firefox开发版本的浏览器不显示安装证书入口的bug。\n"
 }
