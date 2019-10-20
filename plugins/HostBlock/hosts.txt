@@ -1,0 +1,10 @@
+# There is a bug in the history version of this plugin. Please upgrade to v3.1.5 or later.
+
+# Configure domain hosts, support ? and * wildcards.
+xw.qq.com
+*.baidu.com
+
+# Configure domain IPs, support ? and * wildcards.
+112.25.105.102
+112.25.105.24?
+223.111.*.*

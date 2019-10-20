@@ -1,0 +1,5 @@
+# Block all image responses.
+image/*
+
+# Block JSON responses.
+application/json
