@@ -1,7 +1,7 @@
 {
-"min": "2.11.9",
-"latest": "3.1.4",
-"url": "https://httpcanary.com/app/httpcanary_basic_v3.1.4.apk",
-"en_notes": " • Plugin installation, opening and closing take effect immediately.\n • Support SSL host mapping , fixed the bug where the HTTPS directly connected to the IP could not catch the plaintext.\n • Support double-click to exit the app.\n • Fixed a bug where the black and white list does not take effect on the IP.\n • Fixed a bug where the Firefox certificate installation is not visible.\n",
-"zh_notes": " • [优化] 优化插件功能，插件安装、关闭和开启立即生效，无需重启抓包。\n • [新增] 新增SSL域名映射功能，修复IP直连的HTTPS请求抓不到明文的bug。\n • [新增] 新增双击退出APP的功能。\n • [修复] 修复url中域名显示为null的bug。\n • [修复] 修复黑白名单不对IP生效的bug。\n • [修复] 修复Firefox开发版本的浏览器不显示安装证书入口的bug。\n"
+"min": "3.0.0",
+"latest": "3.1.5",
+"url": "https://httpcanary.com/app/httpcanary_basic_v3.1.5.apk",
+"en_notes": " • Fixed a bug where the HostBlock plugin not works for HTTPS protocol.\n • Fixed a bug where WebSocket's close packet is displayed as null.\n • MimeTypeBlock plugin supports wildcards * and ? now.\n • More improvements.\n",
+"zh_notes": " • 修复最近版本HostBlock对HTTPS协议无效的bug。\n • 修复WebSocket协议close包显示为null的bug。\n • 新增MimeBlock插件支持*和?通配符。\n • 优化一些其它细节小问题。\n"
 }
