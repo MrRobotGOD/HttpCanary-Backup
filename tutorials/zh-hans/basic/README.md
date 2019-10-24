@@ -8,6 +8,6 @@ HttpCanary支持抓取TCP/UDP传输层的协议，但是只能解析HTTP和WebSo
 
 下面我们看以下这几种协议的具体数据内容。
 
-- [HTTP协议](/Basic-HTTP.md)
-- [WebSocket协议](/Basic-WebSocket.md)
-- [基于TCP/UDP的协议](/Basic-TCP/UDP.md)
+- [HTTP协议](/basic/http.md)
+- [WebSocket协议](/basic/websocket.md)
+- [基于TCP/UDP的协议](/basic/tcp-udp.md)
