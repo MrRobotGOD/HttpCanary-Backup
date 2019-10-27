@@ -1,16 +1,17 @@
 ### 最新版本
 
-#### v3.1.3
-- 修复常用标签不显示以及标签保存闪退的bug。
-- 修复高级版本提示Hook异常的bug。
-- 修复音频预览点击播放闪退的bug。
-- 修复证书提取工具无法提取不合法证书的bug。
-- 修复版本更新后仍然提示有新版本的bug。
-- 目标应用列表新增滑动删除功能。
-- 重构网络定位漂移插件。
+#### v3.1.5
+- 修复最近版本HostBlock对HTTPS协议无效的bug。
+- 修复WebSocket协议close包显示为null的bug。
+- 新增MimeBlock插件支持*和?通配符。
+- 优化一些其它细节小问题。
 
 
 ### 下载
 
 - [Google Play](https://play.google.com/store/apps/details?id=com.guoshi.httpcanary)
-- [APK下载](https://httpcanary.com/app/httpcanary_basic_v3.1.3.apk)
+
+
+### 限制
+- 因政策原因，HttpCanary不在中国大陆地区任何应用商店和平台进行发布、下载和销售！
+- 通过跨区方式获取的HttpCanary版本，我们将会对其部分功能进行限制和禁用。
