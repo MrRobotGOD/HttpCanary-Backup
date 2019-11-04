@@ -1,7 +1,7 @@
 {
 "min": "3.1.0",
-"latest": "3.1.5",
-"url": "https://httpcanary.com/app/httpcanary_basic_v3.1.5.apk",
+"latest": "3.1.6",
+"url": "https://httpcanary.com/app/httpcanary_basic_v3.1.6.apk",
 "en_notes": " • Fixed a bug where the HostBlock plugin not works for HTTPS protocol.\n • Fixed a bug where WebSocket's close packet is displayed as null.\n • MimeTypeBlock plugin supports wildcards * and ? now.\n • More improvements.\n",
 "zh_notes": " • 修复最近版本HostBlock对HTTPS协议无效的bug。\n • 修复WebSocket协议close包显示为null的bug。\n • 新增MimeBlock插件支持*和?通配符。\n • 优化一些其它细节小问题。\n"
 }
