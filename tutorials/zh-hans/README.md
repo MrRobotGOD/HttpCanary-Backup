@@ -4,7 +4,7 @@
 
 HttpCanary是Android平台下功能最强大的网络分析工具，支持TCP/UDP/HTTP/HTTPS/WebSocket等多种协议，可以视为Android平台下的Fiddler和Charles。
 
-HttpCanary的目标的人群需要掌握一定的计算机网络基础知识，且仅适用于以下人群和使用场景：
+HttpCanary的使用者需要掌握一定的计算机网络基础知识，且仅适用于以下使用场景：
 - Android、前端和后端软件工程师对Rest API调试，定位网络编程中出现的bug。
 - 测试工程师编辑网络数据模拟不同业务场景，进行白盒或黑盒测试。
 - 网络安全工程师对App和服务器网络通信的风险进行测试和验证。
