@@ -1,10 +1,12 @@
 ### Latest Release
 
-#### v3.1.5
-- Fix issue: HostBlock didn't take effect on HTTPS Protocol.
-- Fix issue：The close packet of Websocket Protocol displays in a null value.
-- MimeBlock Plugin now supports wildcard character "*" and "?".
-- Optimize for some small issues.
+#### v3.2.1
+- Optimized Repeat/Advanced Repeat/Compose features，requests will be shown in the list even with the capture is inactived.
+- Added some tools in tool-box，includes PING, DNS Parser, Query Net-Config and Timestamp.
+- Added cURL and URL exec，and show them in the list.
+- Fixed some issues in cURL copy and share.
+- Fixed some injection issues.
+- Some other improvements.
 
 
 ### Download

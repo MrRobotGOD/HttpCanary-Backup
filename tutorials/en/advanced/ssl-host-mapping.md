@@ -8,7 +8,7 @@ This works well in normal cases. However, in many cases, the server will only ha
 
 ![](/assets/ssl_host_mapping1.png)
 
-Take the packet above as an example. The port of server is 443, indicating that this is most likely an HTTPS request. The first packet is a Client Hello handshake packet sent by the client to the server, and the second packet is a Server Hello handshake packet sent by the server to the client. The information in the red box of the Server Hello packet in the image is the SSL certificate information. The domain name (CN) of the certificate is *.soulapp.cn, but the first Client Hello handshake packet does not have SNI information, that is, there is no *.soulapp.cn information. Therefore, the packets that HttpCanary capture were all encrypted with SSL/TLS.
+Take the packet above as an example. The port of server is 443, indicating that this is most likely an HTTPS request. The first packet is a Client Hello handshake packet sent by the client to the server, and the second packet is a Server Hello handshake packet sent by the server to the client. The information in the red box of the Server Hello packet in the image is the SSL certificate information. The domain name (CN) of the certificate is github.com, but the first Client Hello handshake packet does not have SNI information, that is, there is no github.com information. Therefore, the packets that HttpCanary capture were all encrypted with SSL/TLS.
 
 In this case, you need to complete SNI information manually.
 
