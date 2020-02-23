@@ -8,7 +8,7 @@ SSL/TLS加密请求时，客户端需要在握手包中加入域名（Server Nam
 
 ![](/assets/ssl_host_mapping1.png)
 
-以上方的数据包为例。服务器端口是443，表明这极可能是一个HTTPS请求。第一个数据包是客户端发向服务器的Client Hello握手包，第二个包是服务器发向客户端的Server Hello握手包。图中Server Hello包内红色框内的信息是SSL证书的信息，证书的域名（CN）是*.soulapp.cn，但是第一个Client Hello握手包中并没有SNI信息，也就是没有*.soulapp.cn的信息。因此，HttpCanary获取到的都是加密的SSL/TLS数据包。
+以上方的数据包为例。服务器端口是443，表明这极可能是一个HTTPS请求。第一个数据包是客户端发向服务器的Client Hello握手包，第二个包是服务器发向客户端的Server Hello握手包。图中Server Hello包内红色框内的信息是SSL证书的信息，证书的域名（CN）是github.com，但是第一个Client Hello握手包中并没有SNI信息，也就是没有github.com的信息。因此，HttpCanary获取到的都是加密的SSL/TLS数据包。
 
 这种情况下，需要手动进行SNI信息补全。
 

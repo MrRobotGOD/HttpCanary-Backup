@@ -24,7 +24,8 @@
         "alerts@^0.2.0",
         "versions-select@^0.1.1",
         "-sharing",
-        "sharing-plus@^0.0.2"
+        "sharing-plus@^0.0.2",
+        "icp"
     ],
     "pluginsConfig": {
         "theme-default": {
@@ -63,7 +64,7 @@
            ]
        },
         "tbfed-pagefooter": {
-            "copyright": "Copyright © GuoShi 2019",
+            "copyright": "Copyright © GuoShi 2020",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
         "simple-page-toc": {
@@ -86,6 +87,9 @@
         "favicon": {
             "shortcut": "favicon.ico",
             "bookmark": "favicon.ico"
+        },
+        "icp": {
+            "number": "粤ICP备19080303号-1"
         }
     }
 }
