@@ -2,9 +2,9 @@
 
 [Languages](https://httpcanary.com/tutorials)
 
-HttpCanary is the most powerful network analysis tool on the Android platform. It supports TCP/UDP/HTTP/HTTPS/WebSocket and other protocols. It can be regarded as Fiddler or Charles on the Android platform.
+HttpCanary is a powerful network analysis tool on the Android platform. It supports TCP/UDP/HTTP/HTTPS/WebSocket and other protocols. It can be regarded as Fiddler or Charles on the Android platform.
 
-Users of HttpCanary need to have some basic knowledge of computer networks, and it is only suitable for the following usage scenarios:
+Users of HttpCanary need to have some basic knowledge of TCP/IP, and it is only suitable for the following usage scenarios:
 - Android/front-end/back-end software engineers debug the Rest API or locate bugs in network programming.
 - Software test engineers edit network data to simulate different business scenarios and perform white-box or black-box tests.
 - Network security engineers test and verify the risks of network communication between app and server.
@@ -13,19 +13,17 @@ If you are not a professional in the above fields or lack the corresponding know
 
 
 ### 1. Limit & Support
-- Android 5.0+ / real machine + emulator / Wifi + cellular network / no requirement of rooting.
-
-- **For policy reasons，we will not publish or provide downloads or sell HttpCanary in any application store or platform in China Mainland!**
+- Android 5.0+ / real machine + emulator / Wifi + cellular network / no requirement of root.
 
 ### 2. Features
 
 #### 2.1 Multi-protocol Support
 - Support HTTP1.0/HTTP1.1/HTTP2/HTTPS protocols.
 - Support WebSocket protocol.
-- Support TCP/UDP protocol
+- Support Basic TCP/UDP protocol.
 
 #### 2.2 Data analysis Support
-- Support parsing common encoding formats, such as gzip, brotli, chunked, etc.
+- Support the common encoding formats, such as gzip, brotli, chunked, etc.
 - Support searching and filtering packet content, support customized filter rules.
 - Support previewing data content, such as JSON, pictures, audio, video, text, cookies, etc.
 - Support many kinds viewers of data analysis, such as Raw Viewer, HEX Viewer, Text Viewer, etc.
@@ -57,13 +55,13 @@ HttpCanary has two different versions: free version and premium version. The fre
 - Unable to participate in the first-hand internal testing experience event of the new version.
 - Unable to communicate with developers in a one to one way.
 
-**⚠️ The breakpoint function and injector function of the premium version are not available in China Mainland.**<br>
-**⚠️ The breakpoint function and injector function of the premium version are not available in China Mainland.**<br>
-**⚠️ The breakpoint function and injector function of the premium version are not available in China Mainland.**<br>
+**⚠️ The breakpoint and injection of the premium version are not available in China Mainland.**<br>
+**⚠️ The breakpoint and injection of the premium version are not available in China Mainland.**<br>
+**⚠️ The breakpoint and injection  of the premium version are not available in China Mainland.**<br>
 
 #### How to get the premium version?
 
-In order to prevent the abuse of some functions, the purchase channel of the premium version has been closed in China Mainland. For getting thr premium version, please go to [Google Play] (https://play.google.com/store/apps/details?id=com.guoshi.httpcanary.premium) and purchase. Sorry for the inconvenience!
+In order to prevent the abuse of some features, the purchase channel of the premium version has been closed in China Mainland. For getting the premium version, please go to [Google Play] (https://play.google.com/store/apps/details?id=com.guoshi.httpcanary.premium) and purchase. Sorry for the inconvenience!
 
 #### Plan of free
 

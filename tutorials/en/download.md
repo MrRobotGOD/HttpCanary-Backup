@@ -1,13 +1,9 @@
 ### Latest Release
 
-#### v3.2.1
-- Optimized Repeat/Advanced Repeat/Compose features，requests will be shown in the list even with the capture is inactived.
-- Added some tools in tool-box，includes PING, DNS Parser, Query Net-Config and Timestamp.
-- Added cURL and URL exec，and show them in the list.
-- Fixed some issues in cURL copy and share.
-- Fixed some injection issues.
-- Some other improvements.
-
+#### v3.2.2
+- Fixed advance repeat issues.
+- Fixed chunked body issue.
+- Optimize cURL exec.
 
 ### Download
 
