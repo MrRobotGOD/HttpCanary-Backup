@@ -61,7 +61,7 @@ HttpCanary has two different versions: free version and premium version. The fre
 
 #### How to get the premium version?
 
-In order to prevent the abuse of some features, the purchase channel of the premium version has been closed in China Mainland. For getting the premium version, please go to ![Google Play](https://play.google.com/store/apps/details?id=com.guoshi.httpcanary.premium) and purchase. Sorry for the inconvenience!
+In order to prevent the abuse of some features, the purchase channel of the premium version has been closed in China Mainland. For getting the premium version, please go to [Google Play](https://play.google.com/store/apps/details?id=com.guoshi.httpcanary.premium) and purchase. Sorry for the inconvenience!
 
 #### Plan of free
 
