@@ -1,6 +1,6 @@
 ### Latest Release
 
-#### v3.2.2
+#### v3.2.4
 - Add cURL tool in toolbox.
 - Add security level check.
 - Fixed ICMP protocol issue which causes Ping not work.
