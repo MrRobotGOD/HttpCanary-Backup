@@ -1,9 +1,13 @@
 ### Latest Release
 
 #### v3.2.2
-- Fixed advance repeat issues.
-- Fixed chunked body issue.
-- Optimize cURL exec.
+- Add cURL tool in toolbox.
+- Add security level check.
+- Fixed ICMP protocol issue which causes Ping not work.
+- Fixed some requests would be failed when capture is active.
+- Reduce app installation package size.
+- Minor bugfixes and other improvements.
+
 
 ### Download
 
