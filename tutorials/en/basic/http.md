@@ -2,7 +2,7 @@
 
 #### 1. The message format of HTTP
 
-HTTP is the abbreviated form of Hypertext Transfer Protocol, which based on the TCP protocol in Transport Layer.
+HTTP is the abbreviated form of Hypertext Transfer Protocol, which is based on the TCP protocol in Transport Layer.
 
 Firstly, you need to learn the message format of HTTP, here is an example for a simple HTTP request and response.
 

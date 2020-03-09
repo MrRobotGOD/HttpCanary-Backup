@@ -1,6 +1,6 @@
 ### About
 
-HttpCanary is a personal product which developed in outside of my daily work. I finished all the works by myself, including requirements analysis, UI design, front-end and back-end development, and testing. However, due to lack of energy and time, there are some problems such as updating slowly, missing features, and insufficient user experience. Sorry for any inconvenience brought to you.
+HttpCanary is a personal product which was developed outside of my daily work. I finished all the works by myself, including requirements analysis, UI design, front-end and back-end development, and testing. However, due to lack of energy and time, there are some problems such as updating slowly, missing features, and insufficient user experience. Sorry for any inconvenience brought to you.
 
 My goal is to make HttpCanary the most powerful network analysis tool on Android!
 
