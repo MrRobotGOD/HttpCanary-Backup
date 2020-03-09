@@ -1,7 +1,7 @@
 {
 "min": "3.1.5",
 "latest": "3.2.4",
-"url": "https://httpcanary.com/app/httpcanary_basic_v3.2.4.apk",
+"url": "https://httpcanary.com/app/httpcanary_basic_v3.2.5.apk",
 "en_notes": " • Add cURL tool in toolbox.\n • Add security level check.\n • Fixed ICMP protocol issue which causes Ping not work.\n • Fixed ICMP protocol issue which causes Ping not work.\n • Fixed some requests would be failed when capture is active.\n • Reduce app installation package size.\n • Minor bugfixes and other improvements.\n",
 "zh_notes": " • 新增cURL执行小工具。\n • 新增网络安全级别检查。 \n • 修复开启抓包后无法ping的bug。\n • 修复部分场景开启抓包会导致请求失败的bug。\n • 优化降低安装包体积。\n • 其它细节问题修复和优化。\n",
 "md5": "74cc24f80ed4fc190bfbfa32aee252d9"
