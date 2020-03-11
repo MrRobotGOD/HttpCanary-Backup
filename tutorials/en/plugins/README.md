@@ -1,6 +1,6 @@
 ### Plugin
 
-HttpCanary supports the plugin function which can implement customized interception processing on the data of captured packets. For example, the injector function is implemented by a plugin. Although we haven't released the plugin interface yet, we provide some built-in plugins in HttpCanary.
+HttpCanary supports the plugin function which can be used to implement customized interception processing on the data of captured packets. For example, the injector function is implemented by a plugin. Although we haven't released the plugin interface yet, we provide some built-in plugins in HttpCanary.
 
 
 #### Plugin Management

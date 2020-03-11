@@ -14,6 +14,7 @@ If you are not a professional in the above fields or lack the corresponding know
 
 ### 1. Limit & Support
 - Android 5.0+ / real machine + emulator / Wifi + cellular network / no requirement of root.
+- Please refrain from using Parallel Space on Android 10+ (Check Installation page for other ways).
 
 ### 2. Features
 
@@ -72,6 +73,6 @@ Standards of Award:
 
 ### 4. Notice
 
-HttpCanary is a developer tool. It can only be used for network security analysis, API interface debugging, and network communication principle learning. It is strictly forbidden to use in illegal activity or black/gray industry chains, such as network attacks, data theft, application cracking, and making cheating plugins. If the legal risks caused by improper use of HttpCanary are borne by the user, HttpCanary and the developer will not bear any responsibility.
+HttpCanary is a developer tool. It can only be used only with highly ethical intention such as network security analysis, API interface debugging, and network communication principle learning. It is strictly forbidden to use in illegal activity or black/gray industry chains, such as network attacks, data theft, application cracking, and making cheating plugins. The legal risks caused by improper use of HttpCanary are borne by the user, HttpCanary and the developer will not bear any responsibility.
 
-Please read the "User License Agreement" carefully before using HttpCanary and strictly abide by the "User License Agreement" in accordance with laws and regulations during the use.
+Please read the "User License Agreement" carefully before using HttpCanary and strictly abide by the "User License Agreement" in accordance with laws and regulations of your country during the use.

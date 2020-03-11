@@ -1,6 +1,6 @@
 ### Basic Usage
 
-HttpCanary supports capturing the packages which use TCP or UDP in transport layer, but can only parse the packages whoes application layer protocol is HTTP or WebSocket. The packages with other application layer protocols will be displayed as raw data and marked as TCP or UDP.
+HttpCanary supports capturing the packages which use TCP or UDP in transport layer, but can only parse the packages whose application layer protocol is HTTP or WebSocket. The packages with other application layer protocols will be displayed as raw data and marked as TCP or UDP.
 
 ![](/assets/main_page.png)
 

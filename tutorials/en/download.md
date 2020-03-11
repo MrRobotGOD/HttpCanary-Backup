@@ -11,8 +11,11 @@
 
 ### Download
 
+#### Free version
 - [Google Play](https://play.google.com/store/apps/details?id=com.guoshi.httpcanary)
 
+#### Premium version
+- [Google Play](https://play.google.com/store/apps/details?id=com.guoshi.httpcanary.premium)
 
 ### Limitations
 - For policy reasons，we will not publish or provide downloads or sell HttpCanary in any application store or platform in China Mainland.
