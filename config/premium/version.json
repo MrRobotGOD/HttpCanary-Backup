@@ -1,8 +1,8 @@
 {
-"min": "3.1.5",
-"latest": "3.2.4",
-"url": "https://httpcanary.com/app/httpcanary_premium_v3.2.4.apk",
-"en_notes": " • Add cURL tool in toolbox.\n • Add security level check.\n • Fixed ICMP protocol issue which causes Ping not work.\n • Fixed ICMP protocol issue which causes Ping not work.\n • Fixed some requests would be failed when capture is active.\n • Reduce app installation package size.\n • Minor bugfixes and other improvements.\n",
-"zh_notes": " • 新增cURL执行小工具。\n • 新增网络安全级别检查。 \n • 修复开启抓包后无法ping的bug。\n • 修复部分场景开启抓包会导致请求失败的bug。\n • 优化降低安装包体积。\n • 其它细节问题修复和优化。\n",
-"md5": "74cc24f80ed4fc190bfbfa32aee252d9"
+"min": "3.2.1",
+"latest": "3.3.1",
+"url": "https://httpcanary.com/app/httpcanary_premium_v3.3.1.apk",
+"en_notes": " • New features: search, sort and multi selection.\n • New features: batch save, zip save and batch add black/white list.\n • Refactor filter and record save.\n • Redesign icons in list and title texts.\n • Fixed the long loading issue.\n • Fixed the issue where the sub menu icon is invisible.\n • Fixed certificate installation issue.\n • Minor bugfixes and other improvements.\n",
+"zh_notes": " • 新增全局搜索、排序、多选等功能。\n • 新增批量保存、压缩保存、批量添加黑白名单等功能。\n • 重构和优化过滤、保存功能。\n • 重新设计列表非应用类Icon、标题栏内容等样式。\n • 修复启动加载时间过长的bug。\n • 修复标题栏子菜单图标不显示的bug。\n • 修复安装证书横竖屏切换等场景出现无限循环安装证书的bug。\n • 其它细节问题修复和优化。\n",
+"md5": "50137dcd9dacb6bd34902e67303290c9"
 }
