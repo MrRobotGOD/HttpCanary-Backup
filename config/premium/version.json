@@ -1,5 +1,5 @@
 {
-"min": "3.1.5",
+"min": "3.2.1",
 "latest": "3.3.1",
 "url": "https://httpcanary.com/app/httpcanary_premium_v3.3.1.apk",
 "en_notes": " • New features: search, sort and multi selection.\n • New features: batch save, zip save and batch add black/white list.\n • Refactor filter and record save.\n • Redesign icons in list and title texts.\n • Fixed the long loading issue.\n • Fixed the issue where the sub menu icon is invisible.\n • Fixed certificate installation issue.\n • Minor bugfixes and other improvements.\n",
