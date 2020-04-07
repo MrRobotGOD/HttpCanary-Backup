@@ -1,5 +1,5 @@
 {
-"min": "3.1.5",
+"min": "3.2.1",
 "latest": "3.2.4",
 "url": "https://httpcanary.com/app/httpcanary_premium_v3.2.4.apk",
 "en_notes": " • Add cURL tool in toolbox.\n • Add security level check.\n • Fixed ICMP protocol issue which causes Ping not work.\n • Fixed ICMP protocol issue which causes Ping not work.\n • Fixed some requests would be failed when capture is active.\n • Reduce app installation package size.\n • Minor bugfixes and other improvements.\n",
