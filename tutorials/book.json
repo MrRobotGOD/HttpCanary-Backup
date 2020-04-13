@@ -25,7 +25,6 @@
         "versions-select@^0.1.1",
         "-sharing",
         "sharing-plus@^0.0.2",
-        "icp"
     ],
     "pluginsConfig": {
         "theme-default": {
@@ -87,9 +86,6 @@
         "favicon": {
             "shortcut": "favicon.ico",
             "bookmark": "favicon.ico"
-        },
-        "icp": {
-            "number": "粤ICP备19080303号-1"
         }
     }
 }
