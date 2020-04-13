@@ -1,8 +1,8 @@
 {
 "min": "3.1.5",
-"latest": "3.3.1",
-"url": "https://httpcanary.com/app/httpcanary_basic_v3.3.1.apk",
+"latest": "3.3.3",
+"url": "https://httpcanary.com/app/httpcanary_basic_v3.3.3.apk",
 "en_notes": " • New features: search, sort and multi selection.\n • New features: batch save, zip save and batch add black/white list.\n • Refactor filter and record save.\n • Redesign icons in list and title texts.\n • Fixed the long loading issue.\n • Fixed the issue where the sub menu icon is invisible.\n • Fixed certificate installation issue.\n • Minor bugfixes and other improvements.\n",
 "zh_notes": " • 新增全局搜索、排序、多选等功能。\n • 新增批量保存、压缩保存、批量添加黑白名单等功能。\n • 重构和优化过滤、保存功能。\n • 重新设计列表非应用类Icon、标题栏内容等样式。\n • 修复启动加载时间过长的bug。\n • 修复标题栏子菜单图标不显示的bug。\n • 修复安装证书横竖屏切换等场景出现无限循环安装证书的bug。\n • 其它细节问题修复和优化。\n",
-"md5": "819344495210036d5115b6310308beee"
+"md5": "a3021995c5989b77eadd2ab1b2ae8c3e"
 }
