@@ -1,6 +1,6 @@
 ### Latest Release
 
-#### v3.3.1
+#### v3.3.3
 - New features: search, sort and multi selection.
 - New features: batch save, zip save and batch add black/white list.
 - Refactor filter and record save.
