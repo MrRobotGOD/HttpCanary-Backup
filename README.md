@@ -10,7 +10,7 @@ The application can be download from Google Play.
 
 | Free Version |  Paid Version|
 | :----------: | :----------: |
-|[![Get it on Google Play](https://github.com/MegatronKing/HttpCanary/blob/master/assets/get-it-on-google-play.png)](https://play.google.com/store/apps/details?id=com.guoshi.httpcanary) | [![Get it on Google Play](https://github.com/MegatronKing/HttpCanary/blob/master/assets/get-it-on-google-play.png)](https://play.google.com/store/apps/details?id=com.guoshi.httpcanary.premium) |
+|[![Get it on Google Play](https://web.archive.org/web/20210323045956im_/https://github.com/MegatronKing/HttpCanary/raw/master/assets/get-it-on-google-play.png)](https://play.google.com/store/apps/details?id=com.guoshi.httpcanary) | [![Get it on Google Play](https://web.archive.org/web/20210323045956im_/https://github.com/MegatronKing/HttpCanary/raw/master/assets/get-it-on-google-play.png)](https://play.google.com/store/apps/details?id=com.guoshi.httpcanary.premium) |
 
 
 ## Features
@@ -30,10 +30,10 @@ The application can be download from Google Play.
 
 ## Getting Started
 
-- [Wiki](https://github.com/MegatronKing/HttpCanary/wiki)
-- [Tutorials](https://httpcanary.com/tutorials)
+- [Wiki](https://web.archive.org/web/20201221013420/https://github.com/MegatronKing/HttpCanary/wiki)
+- [Tutorials](https://web.archive.org/web/20210323045956/https://httpcanary.com/tutorials)
 - [NetBare](https://github.com/MegatronKing/NetBare)
-
+- [Wayback Repo Url](https://web.archive.org/web/20210323045956/https://github.com/MegatronKing/HttpCanary)
 ## Screenshot
 
-![](https://github.com/MegatronKing/HttpCanary/blob/master/assets/main_screenshot.png)
+![](https://web.archive.org/web/20210323045956im_/https://github.com/MegatronKing/HttpCanary/raw/master/assets/main_screenshot.png)
